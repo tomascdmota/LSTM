@@ -1,0 +1,15 @@
+# Sentence Transformer with LSTM
+
+This project builds an LSTM-based sequence-to-sequence model that transforms input sentences into target sentences.
+
+## How to Run
+
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+2. Prepare your dataset and separate it into Input, Target.
+   
+3. Run the program:
+    ```bash
+    py main.py
